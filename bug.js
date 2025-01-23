@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an app that uses a native module. The error message is not very helpful, and it's difficult to debug.
